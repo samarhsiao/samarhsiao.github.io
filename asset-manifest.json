@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/%20//samarhsiao.github.io/population/static/css/main.102ddbf7.chunk.css",
+    "main.js": "/%20//samarhsiao.github.io/population/static/js/main.ef0eb045.chunk.js",
+    "main.js.map": "/%20//samarhsiao.github.io/population/static/js/main.ef0eb045.chunk.js.map",
+    "runtime-main.js": "/%20//samarhsiao.github.io/population/static/js/runtime-main.50167b8e.js",
+    "runtime-main.js.map": "/%20//samarhsiao.github.io/population/static/js/runtime-main.50167b8e.js.map",
+    "static/css/2.40f59789.chunk.css": "/%20//samarhsiao.github.io/population/static/css/2.40f59789.chunk.css",
+    "static/js/2.1586095d.chunk.js": "/%20//samarhsiao.github.io/population/static/js/2.1586095d.chunk.js",
+    "static/js/2.1586095d.chunk.js.map": "/%20//samarhsiao.github.io/population/static/js/2.1586095d.chunk.js.map",
+    "index.html": "/%20//samarhsiao.github.io/population/index.html",
+    "static/css/2.40f59789.chunk.css.map": "/%20//samarhsiao.github.io/population/static/css/2.40f59789.chunk.css.map",
+    "static/css/main.102ddbf7.chunk.css.map": "/%20//samarhsiao.github.io/population/static/css/main.102ddbf7.chunk.css.map",
+    "static/js/2.1586095d.chunk.js.LICENSE.txt": "/%20//samarhsiao.github.io/population/static/js/2.1586095d.chunk.js.LICENSE.txt",
+    "static/media/taipei-city-logo.bae7fc0e.png": "/%20//samarhsiao.github.io/population/static/media/taipei-city-logo.bae7fc0e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50167b8e.js",
+    "static/css/2.40f59789.chunk.css",
+    "static/js/2.1586095d.chunk.js",
+    "static/css/main.102ddbf7.chunk.css",
+    "static/js/main.ef0eb045.chunk.js"
+  ]
+}
